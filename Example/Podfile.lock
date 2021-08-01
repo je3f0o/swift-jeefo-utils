@@ -1,0 +1,16 @@
+PODS:
+  - JeefoUtils (0.1.0)
+
+DEPENDENCIES:
+  - JeefoUtils (from `../`)
+
+EXTERNAL SOURCES:
+  JeefoUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JeefoUtils: 9060c34af7761b83dbd8fd9a55e26fc444cc5bf9
+
+PODFILE CHECKSUM: 6761dc5de40d4453cbe4d613e51c7dabe58f45b2
+
+COCOAPODS: 1.10.2

@@ -1,0 +1,6 @@
+framework module JeefoUtils {
+  umbrella header "JeefoUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}
